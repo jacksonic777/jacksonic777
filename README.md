@@ -42,7 +42,7 @@ A browser-based 3D web application developed with WebGL.
 
 ### 📷 スクリーンショット / Screenshot
 
-![bcs3d Screenshot](images/bcs3d.png)
+![bcs3d Screenshot](IMG_1309.png)
 
 ---
 
